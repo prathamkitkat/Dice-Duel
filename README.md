@@ -1,4 +1,5 @@
 **Dice Roll Duel**
+
 Dice Roll Duel is an exciting 2-player game where players take turns rolling dice to accumulate points and race to reach a score of 50. Each player has the opportunity to strategically decide whether to roll the dice again to increase their score or hold their current score to secure their progress.
 
 **Gameplay**:
