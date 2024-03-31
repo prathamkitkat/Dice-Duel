@@ -6,9 +6,9 @@ Dice Roll Duel is an exciting 2-player game where players take turns rolling dic
 
 • _Hold:_ Click the "Hold" button to save your current score and pass the turn to the next player.
 
-•	_New Game: _ Start a new game by clicking the "New Game" button.
+•	_New Game:_ Start a new game by clicking the "New Game" button.
 
-•	_Rules: _If a player rolls a 1, their current score is reset to 0, and it becomes the next player's turn . The first player to reach a score of 50 or higher wins the game.
+•	_Rules:_ If a player rolls a 1, their current score is reset to 0, and it becomes the next player's turn . The first player to reach a score of 50 or higher wins the game.
 
 
 **Features:**
