@@ -23,7 +23,11 @@ Technologies Used:
 •	JavaScript 
 •	HTML (provided)
 •	CSS (provided)
+
 How to Play:
+
 •	Choose a player to start the game.
+
 •	Roll the dice and decide whether to continue rolling or hold your current score.
+
 •	Alternate turns with your opponent until one player reaches a score of 50 or higher.
